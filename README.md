@@ -21,19 +21,19 @@
 
 ### 💼 Projects
 
-#### 🔹 [Code Quest](#) | [GitHub](#) | [Live Demo](#)  
+#### 🔹 [Code Quest](#) 
 *Next.js | MongoDB | WebRTC | Socket.IO*  
 - Built a **real-time collaborative coding platform** with contests, live code editing, and online compiler.  
 - Achieved **<200ms latency** using WebRTC & Socket.IO for seamless audio/video sync.  
 - Integrated **JDoodle API** for secure code execution and snippet sharing.  
 
-#### 🔹 [Baat Cheet](#) | [GitHub](#) | [Live Demo](#)  
+#### 🔹 [Baat Cheet](#) 
 *React.js | Node.js | Express.js | MongoDB | Socket.IO*  
 - Developed a **real-time messaging app** with **JWT-based authentication** and **responsive UI**.  
 - Added **notification sounds, online badges, and instant message sync** (<150ms).  
 - Increased user engagement by **40%** through interactive design.  
 
-#### 🔹 [Multi-Threaded Proxy Server](#) | [GitHub](#)  
+#### 🔹 [Multi-Threaded Proxy Server](#)
 *C | LRU Cache | Networking | Concurrency*  
 - Implemented a **multi-threaded HTTP proxy server** handling multiple clients using **semaphores**.  
 - Integrated **LRU cache** for frequently accessed pages, improving response time by **30%**.  
@@ -70,19 +70,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALKA-SINGH25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALKA-SINGH25&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALKA-SINGH25&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ⭐ **"🤝 Open to exciting opportunities and collaborations - let’s build scalable, meaningful systems together!"**
 
 
