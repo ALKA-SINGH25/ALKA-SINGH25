@@ -63,10 +63,19 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="alkasingh2528@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alka-kumari-653770256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ALKA-SINGH25"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src=https://leetcode.com/u/alkak2528/&logo=leetcode&logoColor=white" /></a>
+ <a href="mailto:alkasingh2528@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alka-kumari-653770256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ALKA-SINGH25">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/alkak2528/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+ 
 </p>
 
 ---
