@@ -79,7 +79,7 @@
 </p>
 
 ---
-⭐ **"🤝 Open to exciting opportunities and collaborations - let’s build scalable, meaningful systems together!"**
+🤝 Open to exciting opportunities and collaborations-let’s build scalable, meaningful systems together!
 
 
 
