@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 **B.Tech in Electronics and Communication Engineering (2022–2026)**  
-  Bhagwan Parshuram Institute of Technology, GGSIPU — *7.8 CGPA*  
+  Bhagwan Parshuram Institute of Technology, GGSIPU — *8.07 CGPA*  
 - 💡 Passionate about **Full-Stack Development**, **Data Structures & Algorithms**, and **Machine Learning**
 - 🌱 Always learning and growing through hands-on projects and challenges
 
